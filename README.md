@@ -1,1 +1,1 @@
-# SmartLightApp
+# SliderTest
