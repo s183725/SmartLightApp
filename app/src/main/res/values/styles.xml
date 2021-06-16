@@ -1,0 +1,22 @@
+
+
+<resources>
+
+ <style name ="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+
+ </style>
+<!--
+    <style name="ThemeButtonColorToggle" parent="AppTheme">
+        <item name="colorPrimary">@color/colorOrange</item>
+        <item name="colorButtonNormal">@color/colorOrange</item>
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="strokeColor">@color/colorOrange</item>
+        <item name="strokeWidth">@dimen/mtrl_btn_stroke_size</item>
+        <item name="colorOnPrimary">@color/colorOrange</item>
+        <item name="colorOnPrimarySurface">@color/colorOrange</item>
+    </style>
+-->
+</resources>
